@@ -1,6 +1,6 @@
-pytorch-lightning==2.1.2
+# pytorch-lightning==2.1.2
 gradio==3.41.2
-huggingface-hub
+# huggingface-hub
 einops
 omegaconf
 torchmetrics
@@ -10,8 +10,8 @@ tensorboard
 PyMCubes
 trimesh
 rembg
-transformers==4.34.1
-diffusers==0.20.2
+# transformers==4.34.1
+# diffusers==0.20.2
 bitsandbytes
 imageio[ffmpeg]
 xatlas
